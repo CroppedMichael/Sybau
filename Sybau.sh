@@ -1,1 +1,1 @@
-jp2a --colors -b Sybau.jpg
+sudo jp2a --colors -b Sybau.jpg
